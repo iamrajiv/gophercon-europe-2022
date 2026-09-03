@@ -14,7 +14,7 @@ definition using gRPC-Gateway.
 
 ## Slides
 
-[`slides.html`](slides.html) — open it directly in a browser.
+[`index.html`](index.html) — open it directly in a browser, or at https://iamrajiv.github.io/gophercon-europe-2022/.
 
 ## Recording
 
