@@ -1,6 +1,6 @@
 # Generate RESTful services using gRPC-Gateway
 
-GopherCon Europe 2022, 28th–31st July 2022
+GopherCon Europe 2022, Virtual, 28th–31st July 2022
 
 - Rajiv Ranjan Singh
 
@@ -11,6 +11,8 @@ want to provide a traditional HTTP/JSON API. The reasons can range from maintain
 backward compatibility to supporting programming languages or clients not well
 supported by gRPC. This talk walks through generating RESTful services from a gRPC
 definition using gRPC-Gateway.
+
+Presented remotely to the conference in Berlin.
 
 ## Slides
 
